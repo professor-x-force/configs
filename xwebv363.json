@@ -456,7 +456,7 @@
       "prefabName": "data/prefabs/ico_lodesieutoc",
       "position": 4,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "gameDisplayName": "Lô Đề Nhanh"
     },
     {
