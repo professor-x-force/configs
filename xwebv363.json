@@ -464,7 +464,7 @@
       "prefabName": "data/prefabs/ico_lode",
       "position": 4,
       "type": 1,
-      "isEnable": false
+      "isEnable": true
     },
     {
       "gameID": 250,
