@@ -312,7 +312,7 @@
       "prefabName": "data/prefabs/ico_s_thethao",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 2
     },
     {
@@ -320,7 +320,7 @@
       "prefabName": "data/prefabs/ico_a_thethao",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 2
     },
     {
@@ -471,7 +471,7 @@
       "prefabName": "data/prefabs/ico_evo-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
@@ -480,7 +480,7 @@
       "prefabName": "data/prefabs/ico_via-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
@@ -489,7 +489,7 @@
       "prefabName": "data/prefabs/ico_sexy-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
@@ -498,7 +498,7 @@
       "prefabName": "data/prefabs/ico_vivo-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     }
